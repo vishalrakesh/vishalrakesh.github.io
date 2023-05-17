@@ -1,7 +1,7 @@
 const certidegree = [
   {
     certidegree: 'Getting Started with AI on Jetson Nano',
-    university: 'Nvidia Deep Learning and Dhruv',
+    university: 'Nvidia Deep Learning',
     link: 'https://courses.nvidia.com/certificates/3c655a8bec9c42a98b83cf7346b112bb',
   },
   {
