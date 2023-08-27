@@ -1,6 +1,22 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Birthday - Turning 24',
+    image: 'images/pictures/bitrthday.jpeg',
+    date: '2023-07-25',
+    link: 'https://doshidhruv.com',
+    desc:
+      'Picture at home, turning 24!!',
+  },
+  {
+    title: 'Stanley Park',
+    image: 'images/pictures/dhruv_vancouver.jpg',
+    date: '2023-08-12',
+    link: 'https://goo.gl/maps/wGw2WNNEXwfcnURE6',
+    desc:
+      'Stanley Park, located in Vancouver, is a renowned urban park known for its lush forests, scenic seawall, diverse wildlife, and attractions.',
+  },
+  {
     title: 'Banff Gandola Trip ',
     image: '/images/pictures/all_banff_gandola.jpeg',
     date: '2023-08-15',
@@ -23,22 +39,6 @@ const data = [
     link: 'https://goo.gl/maps/HNG4unfVBE6NcsCq8',
     desc:
       'Capilano Suspension Bridge Park offers thrilling suspension bridges, treetop adventures, and nature walks in a stunning rainforest setting near Vancouver.',
-  },
-  {
-    title: 'Stanley Park',
-    image: 'images/pictures/dhruv_vancouver.jpg',
-    date: '2023-08-12',
-    link: 'https://goo.gl/maps/wGw2WNNEXwfcnURE6',
-    desc:
-      'Stanley Park, located in Vancouver, is a renowned urban park known for its lush forests, scenic seawall, diverse wildlife, and attractions.',
-  },
-  {
-    title: 'Birthday - Turning 24',
-    image: 'images/pictures/bitrthday.jpeg',
-    date: '2023-07-25',
-    link: 'https://doshidhruv.com',
-    desc:
-      'Picture at home, turning 24!!',
   },
   {
     title: 'Cousins!',
