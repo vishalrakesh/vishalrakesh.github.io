@@ -15,7 +15,8 @@ const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Research = lazy(() => import('./pages/Research'));
-const Blogs = lazy(() => import('./pages/Blogs'));
+// const Blogs = lazy(() => import('./pages/Blogs'));
+// const Travel = lazy(() => import('./pages/Travel'));
 const Pictures = lazy(() => import('./pages/Pictures'));
 
 const App = () => (
@@ -28,8 +29,9 @@ const App = () => (
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route path="/research" component={Research} />
-        <Route path="/blogs/" component={Blogs} />
+        {/* <Route path="/blogs/" component={Blogs} /> */}
         <Route path="/pictures/" component={Pictures} />
+        {/* <Route path="/travel/" component={Travel} /> */}
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
