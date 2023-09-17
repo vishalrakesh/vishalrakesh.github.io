@@ -6,12 +6,13 @@ I'm Dhruv, a lifetime student who is always learning new skills and a natural ge
 # Current
 Working as Lead Full Stack Developer with Enterprise Architecture team within RBC. Learning Quantum Computing and trying to learn to swim(hobby - 2023)
 
+<!-- 
 # Travel
 - <a style="color=#7157fa">Total Miles Flew **29063.3956** in **14** flights!</a>
 - <a style="color=#8f1157">Total Miles Travelled **4673** in **8** trains</a>
 
 
-[Check the Map Here!!](https://imgur.com/3UjYo6p)
+[Check the Map Here!!](https://imgur.com/3UjYo6p) -->
 
 
 
