@@ -20,7 +20,7 @@ const Index = () => (
             view <a href="https://blog.doshidhruv.com" target="_blank" rel="noreferrer">blogs</a>, {' '}
             or <Link to="/contact">contact</Link> me.
           </p>
-          {/* <p> Source available <a href="https://github.com/dhruvdoshi/dhruvdoshi.github.io/">here</a>.</p> */}
+          {/* <p> Source available <a href="https://github.com/dhruvdoshi/vishalrakesh.github.io/">here</a>.</p> */}
         </div>
       </header>
       <h2>Latest Updates!!</h2>

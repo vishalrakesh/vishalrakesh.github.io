@@ -82,7 +82,7 @@ const data = [
   {
     title: 'Redirector',
     subtitle: 'A redirector page to go and find everything',
-    link: 'https://dhruvdoshi.github.io/redirector/',
+    link: 'https://vishalrakesh.github.io/redirector/',
     image: '/images/projects/redirector.png',
     code_link: 'https://github.com/DhruvDoshi/redirector/',
     date: '2020-03-12',
